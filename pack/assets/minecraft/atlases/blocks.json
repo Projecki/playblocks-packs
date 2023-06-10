@@ -1,0 +1,1231 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "protocol",
+            "prefix": "protocol/"
+        },
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        },
+		{
+			"source":"entity",
+			"prefix":"entity/",
+			"type":"directory"
+		},
+		{
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_decorate_book"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_door"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:anchor_stone"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_hangingpot"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_wood_barrel"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:box_construction"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_picnictable"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_barrel"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:book_stack_1"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/animations_1"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_wall_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_wheelbarrow"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/animations_5"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_document"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/animations_4"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/animations_3"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_chest"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/animations_2"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:dark_oak_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:wings"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:crossbow"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbar"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_scarecrow"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:animations/staff_cube"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_box"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton_sleep"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_sign"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:leaves"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:bow_1"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:bow_2"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_cage_with_bone"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_table_3"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_table_2"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:jungle_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:chair"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:shovel"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_torch_fire_animation"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_grill"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_table_long"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_fridge_white"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_pond"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:oak_flag"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_haybales"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_table"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:jungle_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_fridge"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_pool_water"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_chest_open"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_vase_1"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:hammer"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_ice_bucket"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_table_sawing"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_vase_2"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:chest"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:animations/animations_nitro"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:bird_house"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:armor/protocal_boots_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_cupboard"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:oak_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_corner"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:birch_flag"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_chair"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:color_flags"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_microwave"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:crossbow"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_atm"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_hang_flag_with_bone"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_table_war"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:picnictable"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_bag"
+    },
+    {
+      "type": "single",
+      "resource": "modelengine:entity/ender_dragon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_table"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:armor/discordnitro_leggings_icon"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_doghut"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_table_long"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_cupboard_shelf"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:little_box"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:dark_oak_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:axe"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:birch_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:basket"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:animations/nitro_gems"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_bar"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:jungle_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_milk_tank"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:armor/protocal_helmet_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_tools_stand"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_wateringcan"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_wheelbarrow"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:chest"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:spear"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:bow_2"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:bow_1"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_pool"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_locker"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_picture"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:dark_oak_flag"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_cupboard_table"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair_with_rest"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_lantern"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:picnictable_nappe"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:hammer"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:table"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:axe"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:sword"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_pot"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:wings"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:roomdivider"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_fence_corner"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_cooler"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:sword"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:helmet"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:animations/animations_1"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:scythe"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:shield"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_grill"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_stalltable"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_table"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_sofa_long"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_campfire"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_chair"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:helmet"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:concret_pot_plant"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_rocks_big"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_table"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_sofa_corner"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_board_04"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_board_03"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_board_02"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:spear"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_board_01"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:dark_oak_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_bath"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_bed"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_trampolin"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_chair"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_rocks_medium"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_table_long"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:oak_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_dj_set"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_plate"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:scythe"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_corn"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_weaponstand"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:shield"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_led_sing"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbars"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_plantpot"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_chair_01"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_chair_02"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_chair_03"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:log_bench"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_computer"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_long"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:shovel"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:greatsword"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_direction_sign"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:crossbow_2"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:crossbow_1"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_clock"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_open_chest"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_well"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:acacia_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_mixer"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_shelf_with_book"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_02"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_01"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_safe_door"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_03"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton_head_drop"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_money_case"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:armor/protocal_chestplate_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_led_sing_animation"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:lantern_box"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_small_table"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_box_apples"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_bench"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:trident"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:light_pallet"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_umbrella"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_heads"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_fridge_with_dish"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_wood_pile"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_stone"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:ceramics_3"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:ceramics_4"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:ceramics_5"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_vase"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:ceramics_1"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_dance_floor"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:ceramics_2"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_table"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_plate_rice"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_chair_1"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:hoe"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_rice_basket"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:spruce_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:birch_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_cage"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_camera"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_chest"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:fence"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_box_bread"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_carpet"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:armor/protocal_leggings_icon"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:acacia_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_television"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:key"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_torch"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:spruce_flag"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:stele"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:armor/discordnitro_chestplate_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbar_with_coin"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:jungle_flag"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:key"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:acacia_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_wagon2"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_greek_balance"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_frame_1"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_frame_2"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:lantern_plus"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_carpet_2"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_beer"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:flowerpot"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_shelf"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:pickaxe"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:hoe"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:oak_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_decorate_book_pen"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_stool"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:exotic_garden_decoration_v1/pot_1"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:fishing_rod_cast"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:exotic_garden_decoration_v1/pot_2"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_flower"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_marketstall_red"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:staff"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_curtain_open"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:stone_wall"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair_with_bone"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_wagon_red"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_money"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_rocks_tiny"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:armor/discordnitro_helmet_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_hay_with_spade"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:trident"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:pond"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_wood_box"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:fishing_rod"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:bench"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_sunbed"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:armor/discordnitro_boots_icon"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_with_dishwasher"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:greatsword"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_pot"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_fence"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_chair_brown"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_sword_and_bone"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_statue"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_sofa"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:dungeon_decoration_v1/dungeon_hang_flag"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:birch_stand_1x1"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:kotatsu"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:spruce_table_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:lamp"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:spruce_window_1x3"
+    },
+    {
+      "type": "single",
+      "resource": "playbox_cherryblossomfurniture:sofa"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:swing"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_log_axe"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:crossbow_2"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:crossbow_1"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_spade"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:staff"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_scare_crow"
+    },
+    {
+      "type": "single",
+      "resource": "protocalset:bow"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_corn_basket"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:farmer_decoration_v1/farmer_firewood"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_marketstall_purple"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:flower_pot"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_tall_chair"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:nightclub_furniture_v2/nightclub_bar_chair_red"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_fireplace"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/medieval_market/medieval_market_wagon_purple"
+    },
+    {
+      "type": "single",
+      "resource": "park_plus:box"
+    },
+    {
+      "type": "single",
+      "resource": "discordnitroset:bow"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_table"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_table_teacher"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_bench"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_glass"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_hood"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_lawnmower"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard_2"
+    },
+    {
+      "type": "single",
+      "resource": "medieval_pack:acacia_flag"
+    },
+    {
+      "type": "single",
+      "resource": "royal:royal_chair"
+    },
+    {
+      "type": "single",
+      "resource": "lzfurniture:furniture/outdoor/outdoor_rocks_small"
+    },
+    {
+      "type": "single",
+      "resource": "magic_store:furnitures/bank_pack/bank_barrier"
+    },
+    {
+      "type": "single",
+      "resource": "elitecreatures:classroom_furniture_v1/classroom_table"
+    }
+    ]
+}
