@@ -10,6 +10,12 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/protocol/chest_opening" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/protocol/helmet_3d" },
 		{ "predicate": { "custom_model_data": 6}, "model": "item/protocol/straw_hat" },
-		{ "predicate": { "custom_model_data": 7}, "model": "item/protocol/top_hat" }
+		{ "predicate": { "custom_model_data": 7}, "model": "item/protocol/top_hat" },
+		 {
+         "predicate":{
+            "custom_model_data":8
+         },
+         "model":"item/protocol/jeweled_crown"
+      }
 	]
 }
