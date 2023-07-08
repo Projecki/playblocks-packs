@@ -1,0 +1,1696 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	"overrides": [
+		 {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_bench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_doghut"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_grill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_lawnmower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_sunbed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_picnictable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_small_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_pool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_trampolin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_rocks_big"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_rocks_medium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_rocks_small"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_rocks_tiny"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_spade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_wateringcan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "lzfurniture:furniture/outdoor/outdoor_wheelbarrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_chair_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_chair_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_cooler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_bar_shelf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_chair_brown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_dance_floor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_dj_set"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_ice_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_led_sing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_sofa"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_sofa_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_sofa_long"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "elitecreatures:nightclub_furniture_v2/nightclub_table_long"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_fridge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_fridge_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_fridge_with_dish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_grill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_hood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_microwave"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_mixer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_bar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_fireplace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_long"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_with_cupboard_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "elitecreatures:industrial_kitchen_v1/ik_table_with_dishwasher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "playbox_cherryblossomfurniture:basket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "playbox_cherryblossomfurniture:chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "playbox_cherryblossomfurniture:flowerpot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "playbox_cherryblossomfurniture:kotatsu"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "playbox_cherryblossomfurniture:lamp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "playbox_cherryblossomfurniture:leaves"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "playbox_cherryblossomfurniture:pond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "playbox_cherryblossomfurniture:roomdivider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "playbox_cherryblossomfurniture:sofa"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "playbox_cherryblossomfurniture:table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10067
+      },
+      "model": "elitecreatures:farmer_decoration_v1/beer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10068
+      },
+      "model": "elitecreatures:farmer_decoration_v1/corn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10069
+      },
+      "model": "elitecreatures:farmer_decoration_v1/corn_basket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10070
+      },
+      "model": "elitecreatures:farmer_decoration_v1/door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10071
+      },
+      "model": "elitecreatures:farmer_decoration_v1/fence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10072
+      },
+      "model": "elitecreatures:farmer_decoration_v1/fence_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10073
+      },
+      "model": "elitecreatures:farmer_decoration_v1/firewood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10074
+      },
+      "model": "elitecreatures:farmer_decoration_v1/flower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10075
+      },
+      "model": "elitecreatures:farmer_decoration_v1/hay_with_spade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10076
+      },
+      "model": "elitecreatures:farmer_decoration_v1/log_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10077
+      },
+      "model": "elitecreatures:farmer_decoration_v1/milk_tank"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10078
+      },
+      "model": "elitecreatures:farmer_decoration_v1/plate_rice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10079
+      },
+      "model": "elitecreatures:farmer_decoration_v1/pond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10080
+      },
+      "model": "elitecreatures:farmer_decoration_v1/rice_basket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10081
+      },
+      "model": "elitecreatures:farmer_decoration_v1/scare_crow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10082
+      },
+      "model": "elitecreatures:farmer_decoration_v1/stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10083
+      },
+      "model": "elitecreatures:farmer_decoration_v1/table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10084
+      },
+      "model": "elitecreatures:farmer_decoration_v1/table_sawing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10085
+      },
+      "model": "elitecreatures:farmer_decoration_v1/tools_stand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10086
+      },
+      "model": "elitecreatures:farmer_decoration_v1/wheelbarrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10087
+      },
+      "model": "park_plus:bench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10088
+      },
+      "model": "park_plus:box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10089
+      },
+      "model": "park_plus:box_construction"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10090
+      },
+      "model": "park_plus:under_construction"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10091
+      },
+      "model": "park_plus:little_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10092
+      },
+      "model": "park_plus:concret_pot_plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10093
+      },
+      "model": "park_plus:wooden_flower_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10094
+      },
+      "model": "park_plus:log_bench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10095
+      },
+      "model": "park_plus:picnic_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10096
+      },
+      "model": "park_plus:picnic_table_nappe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10097
+      },
+      "model": "park_plus:stele_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10098
+      },
+      "model": "park_plus:stele_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10099
+      },
+      "model": "park_plus:stele_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10100
+      },
+      "model": "park_plus:stele_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10101
+      },
+      "model": "park_plus:stele_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10102
+      },
+      "model": "park_plus:street_lamp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10103
+      },
+      "model": "park_plus:street_lamp_double"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10104
+      },
+      "model": "park_plus:street_lamp_quadruple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10105
+      },
+      "model": "park_plus:street_lamp_upper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10106
+      },
+      "model": "park_plus:street_lamp_upper_double"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10107
+      },
+      "model": "park_plus:street_lamp_upper_quadruple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10108
+      },
+      "model": "park_plus:street_lamp_upper_triple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10109
+      },
+      "model": "park_plus:swing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10110
+      },
+      "model": "park_plus:bird_house"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10111
+      },
+      "model": "park_plus:fence"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10112
+      },
+      "model": "park_plus:light_wooden_pallet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10113
+      },
+      "model": "park_plus:wooden_pallet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10114
+      },
+      "model": "park_plus:wooden_ground_planks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10115
+      },
+      "model": "park_plus:lantern_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10116
+      },
+      "model": "elitecreatures:classroom_furniture_v1/board_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10117
+      },
+      "model": "elitecreatures:classroom_furniture_v1/board_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10118
+      },
+      "model": "elitecreatures:classroom_furniture_v1/board_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10119
+      },
+      "model": "elitecreatures:classroom_furniture_v1/board_04"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10120
+      },
+      "model": "elitecreatures:classroom_furniture_v1/chair_01"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10121
+      },
+      "model": "elitecreatures:classroom_furniture_v1/chair_02"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10122
+      },
+      "model": "elitecreatures:classroom_furniture_v1/chair_03"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10123
+      },
+      "model": "elitecreatures:classroom_furniture_v1/clock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10124
+      },
+      "model": "elitecreatures:classroom_furniture_v1/cupboard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10125
+      },
+      "model": "elitecreatures:classroom_furniture_v1/cupboard_shelf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10126
+      },
+      "model": "elitecreatures:classroom_furniture_v1/cupboard_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10127
+      },
+      "model": "elitecreatures:classroom_furniture_v1/decorate_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10128
+      },
+      "model": "elitecreatures:classroom_furniture_v1/decorate_book_pen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10129
+      },
+      "model": "elitecreatures:classroom_furniture_v1/picture"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10130
+      },
+      "model": "elitecreatures:classroom_furniture_v1/plantpot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10131
+      },
+      "model": "elitecreatures:classroom_furniture_v1/shelf_with_book"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10132
+      },
+      "model": "elitecreatures:classroom_furniture_v1/table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10133
+      },
+      "model": "elitecreatures:classroom_furniture_v1/table_long"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10134
+      },
+      "model": "elitecreatures:classroom_furniture_v1/table_teacher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10135
+      },
+      "model": "elitecreatures:classroom_furniture_v1/television"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10136
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_stalltable"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10137
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_scarecrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10138
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_campfire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10139
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10140
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_direction_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10141
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_hangingpot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10142
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_haybales"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10143
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10144
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_marketstall_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10145
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_marketstall_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10146
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_open_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10147
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10148
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_bench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10149
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10150
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_box_apples"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10151
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_box_bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10152
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_bed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10153
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_barell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10154
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_bath"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10155
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10156
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10157
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_stool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10158
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10159
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_wagon_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10160
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_wagon_purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10161
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_wagon2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10162
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_wall_lantern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10163
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_well"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10164
+      },
+      "model": "lzfurniture:furniture/medieval_market/medieval_market_wood_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10165
+      },
+      "model": "discordnitroset:chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10166
+      },
+      "model": "discordnitroset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10167
+      },
+      "model": "discordnitroset:helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10168
+      },
+      "model": "discordnitroset:key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10169
+      },
+      "model": "discordnitroset:wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10170
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_case"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10171
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10172
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_chair_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10173
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_computer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10174
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_document"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10175
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_glass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10176
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_greek_balance"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10177
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_locker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10178
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_locker_open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10179
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_money"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10180
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_money_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10181
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_money_case"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10182
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10183
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_safe_door"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10184
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_sign"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10185
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10186
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_tall_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10187
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_atm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10188
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10189
+      },
+      "model": "magic_store:furnitures/bank_pack/bank_camera"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10190
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_cage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10191
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_cage_with_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10192
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10193
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_chest_open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10194
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10195
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbar_with_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10196
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_goldbars"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10197
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_heads"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10198
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_sword_and_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10199
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_decorate_vase"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10200
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_hang_flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10201
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_hang_flag_with_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10202
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10203
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton_head_drop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10204
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_skeleton_sleep"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10205
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10206
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_table_long"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10207
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_torch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10208
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_weaponstand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10209
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_wood_barrel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10210
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_wood_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10211
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10212
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair_with_bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10213
+      },
+      "model": "elitecreatures:dungeon_decoration_v1/dungeon_wood_chair_with_rest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10214
+      },
+      "model": "royal:royal_candle_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10215
+      },
+      "model": "royal:royal_candle_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10216
+      },
+      "model": "royal:royal_carpet_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10217
+      },
+      "model": "royal:royal_carpet_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10218
+      },
+      "model": "royal:royal_chair_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10219
+      },
+      "model": "royal:royal_chair_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10220
+      },
+      "model": "royal:royal_chair_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10221
+      },
+      "model": "royal:royal_curtain_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10222
+      },
+      "model": "royal:royal_curtain_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10223
+      },
+      "model": "royal:royal_frame_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10224
+      },
+      "model": "royal:royal_frame_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10225
+      },
+      "model": "royal:royal_frame_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10226
+      },
+      "model": "royal:royal_glasses_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10227
+      },
+      "model": "royal:royal_glasses_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10228
+      },
+      "model": "royal:royal_statue_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10229
+      },
+      "model": "royal:royal_statue_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10230
+      },
+      "model": "royal:royal_statue_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10231
+      },
+      "model": "royal:royal_table_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10232
+      },
+      "model": "royal:royal_table_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10233
+      },
+      "model": "royal:royal_table_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10234
+      },
+      "model": "royal:royal_table_war"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10235
+      },
+      "model": "royal:royal_vase_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10236
+      },
+      "model": "royal:royal_vase_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10237
+      },
+      "model": "royal:royal_vase_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10238
+      },
+      "model": "royal:royal_vase_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10239
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/dirt_bag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10240
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10241
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10242
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10243
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10244
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10245
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10246
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10247
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10248
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10249
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/plant_dead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10250
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10251
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_1_c"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10252
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_1_d"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10253
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10254
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_2_d"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10255
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/pot_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10256
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/table_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10257
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/table_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10258
+      },
+      "model": "elitecreatures:exotic_garden_decoration_v1/tool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10259
+      },
+      "model": "protocalset:key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10260
+      },
+      "model": "protocalset:wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10261
+      },
+      "model": "protocalset:helmet"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10262
+      },
+      "model": "littlesharkset:flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10263
+      },
+      "model": "littlesharkset:key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30060
+      },
+      "model": "minecraft:item/barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192001
+      },
+      "model": "littlesharkset:backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192002
+      },
+      "model": "littlesharkset:backpack_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192003
+      },
+      "model": "littlesharkset:tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192101
+      },
+      "model": "littlesharkset:backpack_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192102
+      },
+      "model": "littlesharkset:backpack_2_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192203
+      },
+      "model": "littlesharkset:tail_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192204
+      },
+      "model": "item/paper"
+    },
+    {"predicate":{"custom_model_data":10264},"model":"custom/cosmetics/backpacks/static_wings/angel_wings_static"},
+    {"predicate":{"custom_model_data":10265},"model":"custom/cosmetics/backpacks/static_wings/black_angel_wings_static"},
+    {"predicate":{"custom_model_data":10266},"model":"custom/cosmetics/backpacks/static_wings/butterfly_wings_static"},
+    {"predicate":{"custom_model_data":10267},"model":"custom/cosmetics/backpacks/static_wings/demon_wings_static"},
+    {"predicate":{"custom_model_data":10268},"model":"custom/cosmetics/backpacks/static_wings/dragon_wings_static"},
+    {"predicate":{"custom_model_data":10269},"model":"custom/cosmetics/backpacks/static_wings/fairy_wings_static"},
+    {"predicate":{"custom_model_data":10270},"model":"custom/cosmetics/backpacks/adventurers_pack"},
+    {"predicate":{"custom_model_data":10271},"model":"custom/cosmetics/backpacks/angel_wings"},
+    {"predicate":{"custom_model_data":10272},"model":"custom/cosmetics/backpacks/astronaut_backpack"},
+    {"predicate":{"custom_model_data":10273},"model":"custom/cosmetics/backpacks/baseball_bag"},
+    {"predicate":{"custom_model_data":10274},"model":"custom/cosmetics/backpacks/black_angel_wings"},
+    {"predicate":{"custom_model_data":10275},"model":"custom/cosmetics/backpacks/butterfly_wings"},
+    {"predicate":{"custom_model_data":10276},"model":"custom/cosmetics/backpacks/cape"},
+    {"predicate":{"custom_model_data":10278},"model":"custom/cosmetics/backpacks/demon_tail"},
+    {"predicate":{"custom_model_data":10279},"model":"custom/cosmetics/backpacks/devil_wings"},
+    {"predicate":{"custom_model_data":10280},"model":"custom/cosmetics/backpacks/dragon_wings"},
+    {"predicate":{"custom_model_data":10281},"model":"custom/cosmetics/backpacks/drawstring_satchel"},
+    {"predicate":{"custom_model_data":10282},"model":"custom/cosmetics/backpacks/fairy_wings"},
+    {"predicate":{"custom_model_data":10283},"model":"custom/cosmetics/backpacks/golfers_bag"},
+    {"predicate":{"custom_model_data":10284},"model":"custom/cosmetics/backpacks/pirate_flag"},
+    {"predicate":{"custom_model_data":10285},"model":"custom/cosmetics/backpacks/plain_backpack"},
+    {"predicate":{"custom_model_data":10286},"model":"custom/cosmetics/backpacks/poncho"},
+    {"predicate":{"custom_model_data":10287},"model":"custom/cosmetics/backpacks/quiver_with_arrows"},
+    {"predicate":{"custom_model_data":10288},"model":"custom/cosmetics/backpacks/rubber_ducky_floaty"},
+    {"predicate":{"custom_model_data":10289},"model":"custom/cosmetics/backpacks/rucksack"},
+    {"predicate":{"custom_model_data":10290},"model":"custom/cosmetics/backpacks/shield_weaponry"},
+    {"predicate":{"custom_model_data":10291},"model":"custom/cosmetics/backpacks/squid"},
+    {"predicate":{"custom_model_data":10292},"model":"custom/cosmetics/backpacks/turtle_shell"},
+    {"predicate":{"custom_model_data":10293},"model":"custom/cosmetics/hats/3d_glasses"},
+    {"predicate":{"custom_model_data":10294},"model":"custom/cosmetics/hats/antennae"},
+    {"predicate":{"custom_model_data":10295},"model":"custom/cosmetics/hats/antlers"},
+    {"predicate":{"custom_model_data":10296},"model":"custom/cosmetics/hats/arrow_through_head"},
+    {"predicate":{"custom_model_data":10297},"model":"custom/cosmetics/hats/astronaut_helmet"},
+    {"predicate":{"custom_model_data":10298},"model":"custom/cosmetics/hats/ball_cap"},
+    {"predicate":{"custom_model_data":10299},"model":"custom/cosmetics/hats/bandana"},
+    {"predicate":{"custom_model_data":10300},"model":"custom/cosmetics/hats/beanie"},
+    {"predicate":{"custom_model_data":10301},"model":"custom/cosmetics/hats/bear_cap"},
+    {"predicate":{"custom_model_data":10302},"model":"custom/cosmetics/hats/bee_flying_around_head"},
+    {"predicate":{"custom_model_data":10303},"model":"custom/cosmetics/hats/bee_wings"},
+    {"predicate":{"custom_model_data":10304},"model":"custom/cosmetics/hats/beret"},
+    {"predicate":{"custom_model_data":10305},"model":"custom/cosmetics/hats/box"},
+    {"predicate":{"custom_model_data":10306},"model":"custom/cosmetics/hats/bucket"},
+    {"predicate":{"custom_model_data":10307},"model":"custom/cosmetics/hats/cat_ears"},
+    {"predicate":{"custom_model_data":10308},"model":"custom/cosmetics/hats/cavalier_hat"},
+    {"predicate":{"custom_model_data":10309},"model":"custom/cosmetics/hats/chefs_hat"},
+    {"predicate":{"custom_model_data":10310},"model":"custom/cosmetics/hats/clown_nose_and_wig"},
+    {"predicate":{"custom_model_data":10311},"model":"custom/cosmetics/hats/cowboy_hat"},
+    {"predicate":{"custom_model_data":10312},"model":"custom/cosmetics/hats/crown"},
+    {"predicate":{"custom_model_data":10313},"model":"custom/cosmetics/hats/devil_horns"},
+    {"predicate":{"custom_model_data":10314},"model":"custom/cosmetics/hats/dog_ears"},
+    {"predicate":{"custom_model_data":10315},"model":"custom/cosmetics/hats/dragon_head"},
+    {"predicate":{"custom_model_data":10316},"model":"custom/cosmetics/hats/earth"},
+    {"predicate":{"custom_model_data":10317},"model":"custom/cosmetics/hats/farmer_hat"},
+    {"predicate":{"custom_model_data":10318},"model":"custom/cosmetics/hats/fedora"},
+    {"predicate":{"custom_model_data":10319},"model":"custom/cosmetics/hats/fire"},
+    {"predicate":{"custom_model_data":10320},"model":"custom/cosmetics/hats/fried_egg"},
+    {"predicate":{"custom_model_data":10321},"model":"custom/cosmetics/hats/frog"},
+    {"predicate":{"custom_model_data":10322},"model":"custom/cosmetics/hats/gardening_hat"},
+    {"predicate":{"custom_model_data":10323},"model":"custom/cosmetics/hats/gas_mask"},
+    {"predicate":{"custom_model_data":10324},"model":"custom/cosmetics/hats/halo"},
+    {"predicate":{"custom_model_data":10325},"model":"custom/cosmetics/hats/hard_hat"},
+    {"predicate":{"custom_model_data":10326},"model":"custom/cosmetics/hats/head_mirror"},
+    {"predicate":{"custom_model_data":10327},"model":"custom/cosmetics/hats/headcrab"},
+    {"predicate":{"custom_model_data":10328},"model":"custom/cosmetics/hats/headphones"},
+    {"predicate":{"custom_model_data":10329},"model":"custom/cosmetics/hats/headset"},
+    {"predicate":{"custom_model_data":10330},"model":"custom/cosmetics/hats/hearts"},
+    {"predicate":{"custom_model_data":10331},"model":"custom/cosmetics/hats/horse_head"},
+    {"predicate":{"custom_model_data":10332},"model":"custom/cosmetics/hats/knights_helmet"},
+    {"predicate":{"custom_model_data":10333},"model":"custom/cosmetics/hats/mario_hat"},
+    {"predicate":{"custom_model_data":10334},"model":"custom/cosmetics/hats/monocle"},
+    {"predicate":{"custom_model_data":10335},"model":"custom/cosmetics/hats/mummy_mask"},
+    {"predicate":{"custom_model_data":10336},"model":"custom/cosmetics/hats/naval_captains_hat"},
+    {"predicate":{"custom_model_data":10337},"model":"custom/cosmetics/hats/naval_sailors_hat"},
+    {"predicate":{"custom_model_data":10338},"model":"custom/cosmetics/hats/nesting_chicken"},
+    {"predicate":{"custom_model_data":10339},"model":"custom/cosmetics/hats/nightcap"},
+    {"predicate":{"custom_model_data":10340},"model":"custom/cosmetics/hats/nightcap2"},
+    {"predicate":{"custom_model_data":10341},"model":"custom/cosmetics/hats/oversized_bow"},
+    {"predicate":{"custom_model_data":10342},"model":"custom/cosmetics/hats/panda_ears"},
+    {"predicate":{"custom_model_data":10343},"model":"custom/cosmetics/hats/paper_bag"},
+    {"predicate":{"custom_model_data":10344},"model":"custom/cosmetics/hats/pilots_cap"},
+    {"predicate":{"custom_model_data":10345},"model":"custom/cosmetics/hats/pirate_bandana"},
+    {"predicate":{"custom_model_data":10346},"model":"custom/cosmetics/hats/pirate_hat"},
+    {"predicate":{"custom_model_data":10347},"model":"custom/cosmetics/hats/propeller_hat"},
+    {"predicate":{"custom_model_data":10348},"model":"custom/cosmetics/hats/robot_head"},
+    {"predicate":{"custom_model_data":10349},"model":"custom/cosmetics/hats/scuba_mask"},
+    {"predicate":{"custom_model_data":10350},"model":"custom/cosmetics/hats/shutter_shades"},
+    {"predicate":{"custom_model_data":10351},"model":"custom/cosmetics/hats/ski_goggles"},
+    {"predicate":{"custom_model_data":10352},"model":"custom/cosmetics/hats/sleeping_cat"},
+    {"predicate":{"custom_model_data":10353},"model":"custom/cosmetics/hats/sombrero"},
+    {"predicate":{"custom_model_data":10354},"model":"custom/cosmetics/hats/squid_on_head"},
+    {"predicate":{"custom_model_data":10355},"model":"custom/cosmetics/hats/sunglasses"},
+    {"predicate":{"custom_model_data":10356},"model":"custom/cosmetics/hats/tiara"},
+    {"predicate":{"custom_model_data":10357},"model":"custom/cosmetics/hats/top_hat"},
+    {"predicate":{"custom_model_data":10358},"model":"custom/cosmetics/hats/two_bow"},
+    {"predicate":{"custom_model_data":10359},"model":"custom/cosmetics/hats/unicorn_head"},
+    {"predicate":{"custom_model_data":10360},"model":"custom/cosmetics/hats/ushanka"},
+    {"predicate":{"custom_model_data":10361},"model":"custom/cosmetics/hats/viking_helmet"},
+    {"predicate":{"custom_model_data":10362},"model":"custom/cosmetics/hats/tool_belt"}
+	]
+}

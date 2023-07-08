@@ -1,0 +1,35 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "item/leather_helmet",
+	  "layer1": "item/leather_helmet_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/protocol/helmet" },
+		{
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "discordnitroset:ia_auto_gen/discordnitro_helmet_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "item/protocol/helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "thunderboltset:ia_auto_gen/thunderbolthelmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "item/leather_helmet"
+    }
+
+	]
+}

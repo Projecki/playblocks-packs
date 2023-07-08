@@ -1,0 +1,34 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "item/leather_chestplate",
+	  "layer1": "item/leather_chestplate_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/protocol/chestplate" },
+		{
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "discordnitroset:ia_auto_gen/discordnitrochestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "item/protocol/chestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "thunderboltset:ia_auto_gen/thunderboltchestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "item/leather_chestplate"
+    }
+	]
+}

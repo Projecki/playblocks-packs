@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/fishing_rod"
+  },
+  "overrides": [
+    {
+      "predicate": {"cast": 1 },
+      "model": "item/fishing_rod_cast"
+    },
+	{ "predicate": {"custom_model_data": 1}, "model": "item/protocol/rod"},
+	{ "predicate": {"custom_model_data": 1}, "model": "item/protocol/rod_cast"},
+	{
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "discordnitroset:fishing_rod"
+    },
+    {
+      "predicate": {
+        "cast": 1,
+        "custom_model_data": 10000
+      },
+      "model": "discordnitroset:fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:fishing_rod"
+    },
+    {
+      "predicate": {
+        "cast": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "item/fishing_rod"
+    }
+    ]
+}

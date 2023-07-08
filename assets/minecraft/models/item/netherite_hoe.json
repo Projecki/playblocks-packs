@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "discordnitroset:hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "littlesharkset:hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "item/netherite_hoe"
+    }
+  ]
+}
