@@ -16,6 +16,78 @@
             "custom_model_data":8
          },
          "model":"item/protocol/jeweled_crown"
-      }
+      },
+	  {
+      "predicate": {
+        "custom_model_data": 10264
+      },
+      "model": "thunderboltset:helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10265
+      },
+      "model": "thunderboltset:key"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10266
+      },
+      "model": "thunderboltset:wings"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10267
+      },
+      "model": "nexusset:helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10268
+      },
+      "model": "nexusset:wings"
+    },
+	  {
+      "predicate": {
+        "custom_model_data": 2192001
+      },
+      "model": "littlesharkset:backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192002
+      },
+      "model": "littlesharkset:backpack_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192003
+      },
+      "model": "littlesharkset:tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192004
+      },
+      "model": "littlesharkset:hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192101
+      },
+      "model": "littlesharkset:backpack_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192102
+      },
+      "model": "littlesharkset:backpack_2_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192203
+      },
+      "model": "littlesharkset:tail_self"
+    }
 	]
 }

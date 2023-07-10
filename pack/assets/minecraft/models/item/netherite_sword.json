@@ -4,12 +4,6 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-	{
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "item/protocol/floating_sword"
-    },
     {
       "predicate": {
         "custom_model_data": 10000
@@ -52,9 +46,81 @@
       },
       "model": "discordnitroset:trident"
     },
-    {
+        {
       "predicate": {
         "custom_model_data": 10007
+      },
+      "model": "littlesharkset:hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "littlesharkset:spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "littlesharkset:trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "littlesharkset:staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "littlesharkset:sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "nexusset:hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "nexusset:spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "nexusset:sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "nexusset:scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "nexusset:staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "nexusset:greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "nexusset:trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
       },
       "model": "item/netherite_sword"
     }

@@ -109,6 +109,70 @@
         "custom_model_data": 10000
       },
       "model": "discordnitroset:bow_2"
+    },
+	    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:bow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:bow_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:bow_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:bow_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:bow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:bow_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:bow_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:bow_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "item/bow"
     }
   ]
 }

@@ -22,6 +22,18 @@
       "predicate": {
         "custom_model_data": 10002
       },
+      "model": "thunderboltset:ia_auto_gen/thunderboltleggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:ia_auto_gen/nexussetleggings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
       "model": "item/leather_leggings"
     }
 

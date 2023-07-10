@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:block/sea_lantern",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "protocalset:chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "protocalset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "littlesharkset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "thunderboltset:chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "thunderboltset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "item/sea_lantern"
+    }
+  ]
+}

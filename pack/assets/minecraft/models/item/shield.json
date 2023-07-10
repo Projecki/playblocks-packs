@@ -63,9 +63,35 @@
       },
       "model": "discordnitroset:shield_blocking"
     },
-    {
+        {
       "predicate": {
         "custom_model_data": 10002
+      },
+      "model": "littlesharkset:shield"
+    },
+    {
+      "predicate": {
+        "blocking": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:shield_blocking"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:shield"
+    },
+    {
+      "predicate": {
+        "blocking": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:shield_blocking"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
       },
       "model": "item/shield"
     }

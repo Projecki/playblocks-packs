@@ -22,6 +22,18 @@
       "predicate": {
         "custom_model_data": 10002
       },
+      "model": "thunderboltset:ia_auto_gen/thunderbolthelmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:ia_auto_gen/nexus_helmet_icon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
       "model": "item/leather_helmet"
     }
 

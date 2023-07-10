@@ -134,7 +134,7 @@
       "predicate": {
         "custom_model_data": 10028
       },
-      "model": "elitecreatures:nightclub_furniture_v2/nightclub_chair_3"
+      "model": "nexusset:chest"
     },
     {
       "predicate": {
@@ -1534,17 +1534,77 @@
       },
       "model": "protocalset:helmet"
     },
-		{
-			"predicate": {
-				"custom_model_data": 30060
-			},
-			"model": "minecraft:item/barrier"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 30061
-			},
-			"model": "item/paper"
-		}
+	{
+      "predicate": {
+        "custom_model_data": 10262
+      },
+      "model": "littlesharkset:flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10263
+      },
+      "model": "littlesharkset:key"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10267
+      },
+      "model": "nexusset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10268
+      },
+      "model": "nexusset:key"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30060
+      },
+      "model": "minecraft:item/barrier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192001
+      },
+      "model": "littlesharkset:backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192002
+      },
+      "model": "littlesharkset:backpack_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192003
+      },
+      "model": "littlesharkset:tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192101
+      },
+      "model": "littlesharkset:backpack_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192102
+      },
+      "model": "littlesharkset:backpack_2_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192203
+      },
+      "model": "littlesharkset:tail_self"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2192204
+      },
+      "model": "item/paper"
+    }
 	]
 }

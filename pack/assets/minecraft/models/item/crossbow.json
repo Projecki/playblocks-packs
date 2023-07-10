@@ -107,6 +107,100 @@
         "custom_model_data": 10000
       },
       "model": "discordnitroset:crossbow_firework"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.58,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1.0,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow_2"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow_charged"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.58,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1.0,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow_2"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow_charged"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "item/crossbow"
     }
     ]
 }

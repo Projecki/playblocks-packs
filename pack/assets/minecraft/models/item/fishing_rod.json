@@ -27,6 +27,32 @@
       "predicate": {
         "custom_model_data": 10002
       },
+      "model": "littlesharkset:fishing_rod"
+    },
+    {
+      "predicate": {
+        "cast": 1,
+        "custom_model_data": 10002
+      },
+      "model": "littlesharkset:fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:fishing_rod"
+    },
+    {
+      "predicate": {
+        "cast": 1,
+        "custom_model_data": 10003
+      },
+      "model": "nexusset:fishing_rod_cast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
       "model": "item/fishing_rod"
     }
     ]

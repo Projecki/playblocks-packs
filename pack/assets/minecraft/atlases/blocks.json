@@ -17,6 +17,290 @@
 		},
 		{
       "type": "single",
+      "resource": "nexusset:hammer"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:staff"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:key"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:crossbow"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:fishing_rod"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:helmet"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:spear"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:axe"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:armor/nexus_leggings_icon"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:armor/nexus_chestplate_icon"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:fishing_rod_cast"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:shovel"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:armor/nexus_boots_icon"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:animations/animations_nexus"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:greatsword"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:trident"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:hoe"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:pickaxe"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:armor/nexus_helmet_icon"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:bow"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:chest"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:bow_1"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:bow_2"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:crossbow_2"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:crossbow_1"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:shield"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:scythe"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:animations/animations_bolt"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:sword"
+    },
+{
+      "type": "single",
+      "resource": "nexusset:wings"
+    },
+		{
+      "type": "single",
+      "resource": "thunderboltset:armor/thunderbolt_boots_icon"
+    },
+{
+      "type": "single",
+      "resource": "thunderboltset:armor/thunderbolt_leggings_icon"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:armor/thunderbolt_chestplate_icon"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:wings"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:key"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:chest"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:armor/thunderbolt_helmet_icon"
+    },
+{
+      "type": "single",
+      "resource": "thunderboltset:helmet"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:animation_1"
+    },
+{
+      "type": "single",
+      "resource": "thunderboltset:animation_3"
+    },
+{
+      "type": "single",
+      "resource": "thunderboltset:animation_2"
+    },
+	{
+      "type": "single",
+      "resource": "thunderboltset:animation_4"
+    },
+		{
+      "type": "single",
+      "resource": "littlesharkset:trident"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:flag"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:fishing_rod_cast"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:bow"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:backpack_2"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:hammer"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:spear"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:fishing_rod"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:hat"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:backpack"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:crossbow"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:shield"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:key"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:crossbow_2"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:hoe"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:crossbow_1"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:axe"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:tail"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:shovel"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:sword"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:chest"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:staff"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:bow_1"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:bow_2"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:animations/animations_4"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:animations/animations_3"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:animations/animations_2"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:animations/animations_1"
+    },
+{
+      "type": "single",
+      "resource": "littlesharkset:pickaxe"
+    },
+		{
+      "type": "single",
       "resource": "elitecreatures:classroom_furniture_v1/classroom_decorate_book"
     },
     {
