@@ -1510,6 +1510,402 @@
     {
       "type": "single",
       "resource": "elitecreatures:classroom_furniture_v1/classroom_table"
+    },
+	{
+        "type": "single",
+        "resource": "custom/cosmetics/hats/3d_glasses"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/antennae"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/antlers"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/arrow_through_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/astronaut_helmet"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/ball_cap"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/bandana"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/beanie"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/bear_cap"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/bee"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/bee_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/beret"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/box"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/bucket"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/cat_ears"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/cavalier_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/chefs_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/clown_nose_and_wig"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/cowboy_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/crown"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/devil_horns"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/dog_ears"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/dragon_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/earth"
+    },
+	{
+        "type": "single",
+        "resource": "custom/cosmetics/hats/moon_sprite"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/farmer_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/fedora"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/fire"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/fried_egg"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/frog"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/gardening_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/gas_mask"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/halo"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/hard_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/headcrab"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/headphones"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/headset"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/head_mirror"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/hearts"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/horse_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/knights_helmet"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/mario_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/monocle"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/mummy_mask"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/naval_captains_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/naval_sailors_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/nesting_chicken"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/nightcap"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/nightcap2"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/oversized_bow"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/panda_ears"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/paper_bag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/pilots_cap"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/pirate_bandana"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/pirate_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/propeller_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/robot_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/scuba_mask"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/shutter_shades"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/ski_goggles"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/sleeping_cat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/sombrero"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/squid_on_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/sunglasses"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/tiara"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/top_hat"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/two_bow"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/unicorn_head"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/ushanka"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/hats/viking_helmet"
+    },
+	{
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/adventurers_pack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/angel_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/astronaut_backpack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/baseball_bag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/black_angel_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/butterfly_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/cape"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/demon_tail"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/devil_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/dragon_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/drawstring_satchel"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/fairy_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/golfers_bag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/pirate_flag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/plain_backpack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/poncho"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/quiver_with_arrows"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/rubber_ducky_floaty"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/rucksack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/shield_weaponry"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/squid"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/tool_belt"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/turtle_shell"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/angel_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/black_angel_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/butterfly_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/demon_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/dragon_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/fairy_wings_static"
     }
     ]
 }

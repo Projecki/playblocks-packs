@@ -1,0 +1,118 @@
+[
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/adventurers_pack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/angel_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/astronaut_backpack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/baseball_bag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/black_angel_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/butterfly_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/cape"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/demon_tail"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/devil_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/dragon_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/drawstring_satchel"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/fairy_wings"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/golfers_bag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/pirate_flag"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/plain_backpack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/poncho"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/quiver_with_arrows"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/rubber_ducky_floaty"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/rucksack"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/shield_weaponry"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/squid"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/tool_belt"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/turtle_shell"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/angel_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/black_angel_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/butterfly_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/demon_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/dragon_wings_static"
+    },
+    {
+        "type": "single",
+        "resource": "custom/cosmetics/backpacks/static_wings/fairy_wings_static"
+    }
+]
