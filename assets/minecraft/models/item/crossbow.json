@@ -200,6 +200,50 @@
       "predicate": {
         "custom_model_data": 10004
       },
+      "model": "noraset:crossbow"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:crossbow_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.58,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:crossbow_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1.0,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:crossbow_2"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:crossbow_charged"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:crossbow_firework"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
       "model": "item/crossbow"
     }
     ]

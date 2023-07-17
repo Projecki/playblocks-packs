@@ -26,6 +26,18 @@
       "predicate": {
         "custom_model_data": 10003
       },
+      "model": "noraset:pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "norarainbowset:pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
       "model": "item/netherite_pickaxe"
     }
   ]

@@ -1,0 +1,31 @@
+{
+   "parent":"item/generated",
+   "textures":{
+      "layer0":"item/pufferfish"
+   },
+   "overrides":[
+      {"predicate":{"custom_model_data":1},"model":"fish:angelfish"},
+      {"predicate":{"custom_model_data":2},"model":"fish:banded_butterflyfish"},
+      {"predicate":{"custom_model_data":3},"model":"fish:blue_jellyfish"},
+      {"predicate":{"custom_model_data":4},"model":"fish:bluehead_wrasse"},
+      {"predicate":{"custom_model_data":5},"model":"fish:bronze_trophy"},
+      {"predicate":{"custom_model_data":6},"model":"fish:carp"},
+      {"predicate":{"custom_model_data":7},"model":"fish:crab"},
+      {"predicate":{"custom_model_data":8},"model":"fish:diamond_trophy"},
+      {"predicate":{"custom_model_data":9},"model":"fish:gold_trophy"},
+      {"predicate":{"custom_model_data":10},"model":"fish:golden_lobster"},
+      {"predicate":{"custom_model_data":11},"model":"fish:lobster"},
+      {"predicate":{"custom_model_data":12},"model":"fish:oyster"},
+      {"predicate":{"custom_model_data":13},"model":"fish:pink_jellyfish"},
+      {"predicate":{"custom_model_data":14},"model":"fish:red_snapper"},
+      {"predicate":{"custom_model_data":15},"model":"fish:shrimp"},
+      {"predicate":{"custom_model_data":16},"model":"fish:silver_trophy"},
+      {"predicate":{"custom_model_data":17},"model":"fish:squid"},
+      {"predicate":{"custom_model_data":18},"model":"fish:trout"},
+      {"predicate":{"custom_model_data":19},"model":"fish:tuna"},
+      {"predicate":{"custom_model_data":20},"model":"fish:chum"},
+      {"predicate":{"custom_model_data":21},"model":"fish:lure"},
+      {"predicate":{"custom_model_data":22},"model":"fish:legendary_lure"},
+	  {"predicate":{"custom_model_data":23},"model":"minecraft:item/pufferfish"}
+   ]
+}

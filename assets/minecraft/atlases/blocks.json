@@ -15,6 +15,270 @@
 			"prefix":"entity/",
 			"type":"directory"
 		},
+		 {
+        "type": "single",
+        "resource": "fish:angelfish"
+    },
+    {
+        "type": "single",
+        "resource": "fish:banded_butterflyfish"
+    },
+    {
+        "type": "single",
+        "resource": "fish:bluehead_wrasse"
+    },
+    {
+        "type": "single",
+        "resource": "fish:blue_jellyfish"
+    },
+    {
+        "type": "single",
+        "resource": "fish:bronze_trophy"
+    },
+    {
+        "type": "single",
+        "resource": "fish:carp"
+    },
+    {
+        "type": "single",
+        "resource": "fish:chum"
+    },
+    {
+        "type": "single",
+        "resource": "fish:crab"
+    },
+    {
+        "type": "single",
+        "resource": "fish:diamond_trophy"
+    },
+    {
+        "type": "single",
+        "resource": "fish:golden_lobster"
+    },
+    {
+        "type": "single",
+        "resource": "fish:gold_trophy"
+    },
+    {
+        "type": "single",
+        "resource": "fish:legendary_lure"
+    },
+    {
+        "type": "single",
+        "resource": "fish:lobster"
+    },
+    {
+        "type": "single",
+        "resource": "fish:lure"
+    },
+    {
+        "type": "single",
+        "resource": "fish:oyster"
+    },
+    {
+        "type": "single",
+        "resource": "fish:pink_jellyfish"
+    },
+    {
+        "type": "single",
+        "resource": "fish:red_snapper"
+    },
+    {
+        "type": "single",
+        "resource": "fish:shrimp"
+    },
+    {
+        "type": "single",
+        "resource": "fish:silver_trophy"
+    },
+    {
+        "type": "single",
+        "resource": "fish:squid"
+    },
+    {
+        "type": "single",
+        "resource": "fish:trout"
+    },
+    {
+        "type": "single",
+        "resource": "fish:tuna"
+    },
+		{
+      "type": "single",
+      "resource": "norarainbowset:pickaxe"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:armor/nora_leggings_icon"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:animations/animations_6"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:animations/animations_1"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:animations/animations_5"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:wings"
+    },
+	{
+      "type": "single",
+      "resource": "norarainbowset:helmet"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:armor/nora_chestplate_icon"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:armor/nora_boots_icon"
+    },
+{
+      "type": "single",
+      "resource": "norarainbowset:sword"
+    },
+		{
+      "type": "single",
+      "resource": "noraset:fishing_rod"
+    },
+{
+      "type": "single",
+      "resource": "noraset:hoe"
+    },
+{
+      "type": "single",
+      "resource": "noraset:staff"
+    },
+{
+      "type": "single",
+      "resource": "noraset:crossbow"
+    },
+{
+      "type": "single",
+      "resource": "noraset:shield"
+    },
+{
+      "type": "single",
+      "resource": "noraset:armor/nora_leggings_icon"
+    },
+{
+      "type": "single",
+      "resource": "noraset:axe"
+    },
+{
+      "type": "single",
+      "resource": "noraset:spear"
+    },
+{
+      "type": "single",
+      "resource": "noraset:hammer"
+    },
+{
+      "type": "single",
+      "resource": "noraset:trident"
+    },
+{
+      "type": "single",
+      "resource": "noraset:armor/nora_chestplate_icon"
+    },
+{
+      "type": "single",
+      "resource": "noraset:bow"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_4"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_5"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_6"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_7"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_1"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_2"
+    },
+{
+      "type": "single",
+      "resource": "noraset:animations/animations_3"
+    },
+{
+      "type": "single",
+      "resource": "noraset:shovel"
+    },
+{
+      "type": "single",
+      "resource": "noraset:crossbow_1"
+    },
+{
+      "type": "single",
+      "resource": "noraset:crossbow_2"
+    },
+{
+      "type": "single",
+      "resource": "noraset:scythe"
+    },
+{
+      "type": "single",
+      "resource": "noraset:key"
+    },
+{
+      "type": "single",
+      "resource": "noraset:greatsword"
+    },
+{
+      "type": "single",
+      "resource": "noraset:fishing_rod_cast"
+    },
+{
+      "type": "single",
+      "resource": "noraset:bow_1"
+    },
+{
+      "type": "single",
+      "resource": "noraset:bow_2"
+    },
+{
+      "type": "single",
+      "resource": "noraset:sword"
+    },
+{
+      "type": "single",
+      "resource": "noraset:helmet"
+    },
+{
+      "type": "single",
+      "resource": "noraset:armor/nora_boots_icon"
+    },
+{
+      "type": "single",
+      "resource": "noraset:wings"
+    },
+{
+      "type": "single",
+      "resource": "noraset:chest"
+    },
+{
+      "type": "single",
+      "resource": "noraset:pickaxe"
+    },
 		{
       "type": "single",
       "resource": "nexusset:hammer"

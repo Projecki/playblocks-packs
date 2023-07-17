@@ -122,6 +122,54 @@
       "predicate": {
         "custom_model_data": 10019
       },
+      "model": "noraset:hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "noraset:scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "noraset:spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "noraset:trident"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "noraset:staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "noraset:greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "noraset:sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "norarainbowset:sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
       "model": "item/netherite_sword"
     }
   ]

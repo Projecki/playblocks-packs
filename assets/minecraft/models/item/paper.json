@@ -1558,6 +1558,12 @@
       },
       "model": "nexusset:key"
     },
+	{
+      "predicate": {
+        "custom_model_data": 10269
+      },
+      "model": "noraset:key"
+    },
     {
       "predicate": {
         "custom_model_data": 30060

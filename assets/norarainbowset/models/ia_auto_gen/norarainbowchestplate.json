@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/empty",
+    "layer1": "norarainbowset:armor/nora_chestplate_icon"
+  }
+}

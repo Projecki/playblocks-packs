@@ -26,6 +26,12 @@
       "predicate": {
         "custom_model_data": 10003
       },
+      "model": "noraset:hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
       "model": "item/netherite_hoe"
     }
   ]

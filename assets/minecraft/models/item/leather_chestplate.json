@@ -34,6 +34,18 @@
       "predicate": {
         "custom_model_data": 10004
       },
+      "model": "noraset:ia_auto_gen/norachestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "norarainbowset:ia_auto_gen/norarainbowchestplate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
       "model": "item/leather_chestplate"
     }
 	]

@@ -41,6 +41,18 @@
       "predicate": {
         "custom_model_data": 10006
       },
+      "model": "noraset:chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "noraset:chest_opening"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
       "model": "item/sea_lantern"
     }
   ]

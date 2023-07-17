@@ -93,6 +93,19 @@
       "predicate": {
         "custom_model_data": 10004
       },
+      "model": "noraset:shield"
+    },
+    {
+      "predicate": {
+        "blocking": 1,
+        "custom_model_data": 10004
+      },
+      "model": "noraset:shield_blocking"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
       "model": "item/shield"
     }
     ]

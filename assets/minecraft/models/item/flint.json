@@ -145,6 +145,30 @@
       },
       "model": "nexusset:wings"
     },
+	{
+      "predicate": {
+        "custom_model_data": 10269
+      },
+      "model": "noraset:helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10270
+      },
+      "model": "noraset:wings"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10271
+      },
+      "model": "norarainbowset:wings"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 10272
+      },
+      "model": "norarainbowset:helmet"
+    },
 	  {
       "predicate": {
         "custom_model_data": 2192001
