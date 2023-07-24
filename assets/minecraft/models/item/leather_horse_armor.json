@@ -513,6 +513,216 @@
 				"custom_model_data": 85
 			},
 			"model": "modelengine:toro_ender_dragon/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1000
+			},
+			"model": "modelengine:mso_laval_lord/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1001
+			},
+			"model": "modelengine:mso_laval_lord/right_horn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1002
+			},
+			"model": "modelengine:mso_laval_lord/left_horn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1003
+			},
+			"model": "modelengine:mso_laval_lord/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1004
+			},
+			"model": "modelengine:mso_laval_lord/upper_chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1005
+			},
+			"model": "modelengine:mso_laval_lord/left_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1006
+			},
+			"model": "modelengine:mso_laval_lord/left_elbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1007
+			},
+			"model": "modelengine:mso_laval_lord/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1008
+			},
+			"model": "modelengine:mso_laval_lord/fire_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1009
+			},
+			"model": "modelengine:mso_laval_lord/left_shoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1010
+			},
+			"model": "modelengine:mso_laval_lord/right_hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1011
+			},
+			"model": "modelengine:mso_laval_lord/right_elbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012
+			},
+			"model": "modelengine:mso_laval_lord/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1013
+			},
+			"model": "modelengine:mso_laval_lord/fire_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1014
+			},
+			"model": "modelengine:mso_laval_lord/right_shoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1015
+			},
+			"model": "modelengine:mso_laval_lord/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1016
+			},
+			"model": "modelengine:mso_laval_lord/spine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1017
+			},
+			"model": "modelengine:mso_laval_lord/hip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1018
+			},
+			"model": "modelengine:mso_laval_lord/left_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1019
+			},
+			"model": "modelengine:mso_laval_lord/left_knee"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1020
+			},
+			"model": "modelengine:mso_laval_lord/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1021
+			},
+			"model": "modelengine:mso_laval_lord/right_foot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1022
+			},
+			"model": "modelengine:mso_laval_lord/right_knee"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1023
+			},
+			"model": "modelengine:mso_laval_lord/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1024
+			},
+			"model": "modelengine:mso_lavastone_golem/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1025
+			},
+			"model": "modelengine:mso_lavastone_golem/left_fist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1026
+			},
+			"model": "modelengine:mso_lavastone_golem/left_elbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1027
+			},
+			"model": "modelengine:mso_lavastone_golem/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1028
+			},
+			"model": "modelengine:mso_lavastone_golem/right_fist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1029
+			},
+			"model": "modelengine:mso_lavastone_golem/right_elbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1030
+			},
+			"model": "modelengine:mso_lavastone_golem/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1031
+			},
+			"model": "modelengine:mso_lavastone_golem/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1032
+			},
+			"model": "modelengine:mso_lavastone_golem/tail_tip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1033
+			},
+			"model": "modelengine:mso_lavastone_golem/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1034
+			},
+			"model": "modelengine:mso_lavastone_golem/hip"
 		}
 	]
 }

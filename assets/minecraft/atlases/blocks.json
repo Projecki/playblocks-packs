@@ -17,6 +17,10 @@
 		},
 		 {
         "type": "single",
+        "resource": "items/spelleffects/boulder"
+    },
+	{
+        "type": "single",
         "resource": "fish:angelfish"
     },
     {
@@ -1999,6 +2003,10 @@
         "type": "single",
         "resource": "custom/cosmetics/hats/propeller_hat"
     },
+	{
+        "type": "single",
+        "resource": "custom/cosmetics/hats/propeller"
+    },
     {
         "type": "single",
         "resource": "custom/cosmetics/hats/robot_head"
@@ -2018,6 +2026,10 @@
     {
         "type": "single",
         "resource": "custom/cosmetics/hats/sleeping_cat"
+    },
+	{
+        "type": "single",
+        "resource": "custom/cosmetics/hats/sleep"
     },
     {
         "type": "single",
@@ -2089,7 +2101,7 @@
     },
     {
         "type": "single",
-        "resource": "custom/cosmetics/backpacks/devil_wings"
+        "resource": "custom/cosmetics/backpacks/demon_wings"
     },
     {
         "type": "single",

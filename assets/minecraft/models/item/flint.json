@@ -17,6 +17,8 @@
          },
          "model":"item/protocol/jeweled_crown"
       },
+	  {"predicate": {"custom_model_data":1000}, "model": "item/spelleffects/volcano"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/spelleffects/boulder"},
 	  {"predicate":{"custom_model_data":1264},"model":"custom/cosmetics/backpacks/static_wings/angel_wings_static"},
     {"predicate":{"custom_model_data":1265},"model":"custom/cosmetics/backpacks/static_wings/black_angel_wings_static"},
     {"predicate":{"custom_model_data":1266},"model":"custom/cosmetics/backpacks/static_wings/butterfly_wings_static"},
